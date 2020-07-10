@@ -1,5 +1,5 @@
 # divide_two_integers
-Divide two integers
+Divide two integers, Leetcode problem.
 
 Given two integers dividend and divisor, divide two integers without using multiplication, division and mod operator.
 
